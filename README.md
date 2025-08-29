@@ -34,7 +34,7 @@ Infinitely expandable for your server requirements
 ```Multi Location Job Centers```
 - Define as many locations as you wish each fully configurable
 - Optional choice of target zone or ped to interact with
-- Locations can have just jobs available, just licenes or just identity documents or all of them the choice is yours
+- Locations can have just jobs available, just licenses or just identity documents or all of them the choice is yours
 
 
 ```Unlimited Employment Offers```
@@ -45,10 +45,10 @@ Infinitely expandable for your server requirements
 
 
 ```Unlimited License Types```
-- Define as many licenes as you wish 
+- Define as many licenses as you wish 
 - Commands for defined jobs to grant and remove license types to players
 - Choice of payment type cash or bank
-- Option to set licenes to be free and cost 0 which skips payment type input
+- Option to set licenses to be free and cost 0 which skips payment type input
 
 
 ```Unlimited Identity Documents```
