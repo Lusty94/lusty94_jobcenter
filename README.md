@@ -31,27 +31,27 @@ Infinitely expandable for your server requirements
 
 ## FEATURES
 
-``Multi Location Job Centers``
+```Multi Location Job Centers```
 - Define as many locations as you wish each fully configurable
 - Optional choice of target zone or ped to interact with
 - Locations can have just jobs available, just licenes or just identity documents or all of them the choice is yours
 
 
-``Unlimited Employment Offers``
+```Unlimited Employment Offers```
 - Define as many jobs as you wish each with their own unique job information
 - Salary is displayed direct from jobs.lua
 - Confirmation of employment offer for applicant
 - Configurable cooldown timer for job switches
 
 
-``Unlimited Licene Types``
+```Unlimited License Types```
 - Define as many licenes as you wish 
 - Commands for defined jobs to grant and remove license types to players
 - Choice of payment type cash or bank
 - Option to set licenes to be free and cost 0 which skips payment type input
 
 
-``Unlimited Identity Documents``
+```Unlimited Identity Documents```
 - Define as many identity documents as you wish each with their own unique information
 - Option to job lock documents
 - Option to rank lock job required documents
@@ -59,7 +59,7 @@ Infinitely expandable for your server requirements
 - Useable documents display information to nearby players
 
 
-``Security Focused``
+```Security Focused```
 - Respective security checks where required
 - Optional logging via fm-logs or Discord
 - Optional kick punishment for exploiters
