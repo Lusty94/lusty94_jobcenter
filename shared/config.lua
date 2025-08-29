@@ -18,7 +18,7 @@ Config = {}
 
 Config.CoreSettings = {
     Debug = { -- debug settings
-        Prints = true, -- sends debug prints to f8 console and txadmin server console
+        Prints = false, -- sends debug prints to f8 console and txadmin server console
     },
     Security = { -- security settings
         MaxDistance = 10.0, -- max distance permitted for security checks 10.0 seems reasonable
@@ -42,7 +42,7 @@ Config.CoreSettings = {
     },
     Notify = { -- notification settings - support for qb-core notify okokNotify, mythic_notify, ox_lib notify, qs-notify, lation_ui, wasabi_notify (experimental not tested)
         --EDIT CLIENT/FUNCS.LUA & SERVER/FUNCS.LUA TO ADD YOUR OWN NOTIFY SUPPORT
-        Type = 'ox',
+        Type = 'qb',
         --use 'qb' for default qb-core notify
         --use 'okok' for okokNotify
         --use 'mythic' for mythic_notify
